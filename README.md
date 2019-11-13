@@ -43,5 +43,5 @@ Make all of the following changes to the my-app/src/App.js file
 After you have completed all of the exercises, commit your changes with the following command:
 
 ```
-git commit -am "ReactJS JSX Examples"
+git commit -am "ReactJS Lifecycle Examples"
 ```
